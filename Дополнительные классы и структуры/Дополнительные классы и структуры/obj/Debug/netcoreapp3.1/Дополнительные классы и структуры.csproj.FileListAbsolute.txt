@@ -1,0 +1,14 @@
+C:\Users\egorb\source\repos\Дополнительные классы и структуры\Дополнительные классы и структуры\bin\Debug\netcoreapp3.1\Дополнительные классы и структуры.exe
+C:\Users\egorb\source\repos\Дополнительные классы и структуры\Дополнительные классы и структуры\bin\Debug\netcoreapp3.1\Дополнительные классы и структуры.deps.json
+C:\Users\egorb\source\repos\Дополнительные классы и структуры\Дополнительные классы и структуры\bin\Debug\netcoreapp3.1\Дополнительные классы и структуры.runtimeconfig.json
+C:\Users\egorb\source\repos\Дополнительные классы и структуры\Дополнительные классы и структуры\bin\Debug\netcoreapp3.1\Дополнительные классы и структуры.runtimeconfig.dev.json
+C:\Users\egorb\source\repos\Дополнительные классы и структуры\Дополнительные классы и структуры\bin\Debug\netcoreapp3.1\Дополнительные классы и структуры.dll
+C:\Users\egorb\source\repos\Дополнительные классы и структуры\Дополнительные классы и структуры\bin\Debug\netcoreapp3.1\Дополнительные классы и структуры.pdb
+C:\Users\egorb\source\repos\Дополнительные классы и структуры\Дополнительные классы и структуры\obj\Debug\netcoreapp3.1\Дополнительные классы и структуры.csproj.AssemblyReference.cache
+C:\Users\egorb\source\repos\Дополнительные классы и структуры\Дополнительные классы и структуры\obj\Debug\netcoreapp3.1\Дополнительные классы и структуры.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorb\source\repos\Дополнительные классы и структуры\Дополнительные классы и структуры\obj\Debug\netcoreapp3.1\Дополнительные классы и структуры.AssemblyInfoInputs.cache
+C:\Users\egorb\source\repos\Дополнительные классы и структуры\Дополнительные классы и структуры\obj\Debug\netcoreapp3.1\Дополнительные классы и структуры.AssemblyInfo.cs
+C:\Users\egorb\source\repos\Дополнительные классы и структуры\Дополнительные классы и структуры\obj\Debug\netcoreapp3.1\Дополнительные классы и структуры.csproj.CoreCompileInputs.cache
+C:\Users\egorb\source\repos\Дополнительные классы и структуры\Дополнительные классы и структуры\obj\Debug\netcoreapp3.1\Дополнительные классы и структуры.dll
+C:\Users\egorb\source\repos\Дополнительные классы и структуры\Дополнительные классы и структуры\obj\Debug\netcoreapp3.1\Дополнительные классы и структуры.pdb
+C:\Users\egorb\source\repos\Дополнительные классы и структуры\Дополнительные классы и структуры\obj\Debug\netcoreapp3.1\Дополнительные классы и структуры.genruntimeconfig.cache

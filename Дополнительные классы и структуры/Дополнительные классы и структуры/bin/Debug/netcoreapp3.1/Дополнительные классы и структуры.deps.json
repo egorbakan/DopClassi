@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Дополнительные классы и структуры/1.0.0": {
+        "runtime": {
+          "Дополнительные классы и структуры.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Дополнительные классы и структуры/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
